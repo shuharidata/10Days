@@ -1,0 +1,42 @@
+Data Engineering Case Study 
+
+What it is?
+- Make sure the data is available for analytics 
+- Compute + Storage + Messaging + Coding + Architecture + Domain Knowledge 
+- creation , processing, maintenance of data pipelines to help DS to work on their use cases
+
+What is Data pipeline 
+- Applications that capture , organizes , route data to gain insights 
+
+Common Programming Language 
+- java 
+- python
+- scala
+
+Collect + Ingest 
+- kafka
+-logstash
+
+Store/Manage
+- SQL
+-NoSQL
+-DWH
+  
+  Process
+    - Spark
+  -hive
+  -SQL
+  -Elk
+  
+ Skills
+ - python
+ - Scala
+
+What problems are we solving - Big data 5V's
+
+Distributed Framework
+- Hadoop 
+- Spark
+
+  
+
